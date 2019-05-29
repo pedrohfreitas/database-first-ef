@@ -19,3 +19,10 @@ Codificação das classes e mapeamentos
 Atualiza a base durante o desenvolvimento
 - Base Existente:
 - Códificação das classes e mapeamento (ferramentas de engenharia reversa)
+
+# Entity Framework Tools 
+Utilizando para auxiliar no mapeamento dos objetos
+
+https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator
+
+
